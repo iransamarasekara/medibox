@@ -270,15 +270,12 @@ If MediBox helps you or your loved ones manage medication better, please conside
 - ⭐ Starring this repository
 - 🍴 Forking and contributing
 - 📢 Sharing with others who might benefit
-- 💖 [Sponsoring the project](https://github.com/sponsors/iransamarasekara)
 
 ---
 
 <div align="center">
 
 **[🔝 Back to Top](#-medibox---smart-medicine-management-system)**
-
-Made with ❤️ for better healthcare management
 
 *Stay healthy, stay smart with MediBox!*
 
